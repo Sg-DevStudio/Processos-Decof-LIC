@@ -1,0 +1,9 @@
+# Arquivos temporarios do Windows e do Office
+Thumbs.db
+Desktop.ini
+~$*
+
+# Arquivos locais de apoio
+*.tmp
+*.bak
+
