@@ -7,3 +7,8 @@ Desktop.ini
 *.tmp
 *.bak
 
+# Dependências instaladas localmente
+**/node_modules/
+
+# Resultados temporários de análise local
+tmp/
